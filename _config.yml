@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Huy Pham Personal Website"
 title_separator          : "-"
 name                     : &name "Huy Pham"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Huy Pham"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Minneapolis - Twin Cities, MN, USA"
+  bio              : "Data Science Student @ UMN CSE / Upcoming Intern @ Graco Inc."
+  location         : "Minneapolis/Twin Cities, MN, USA"
   employer         : "University of Minnesota - Twin Cities"
   uri              : # URL
   email            : "pham0600@umn.edu" 
