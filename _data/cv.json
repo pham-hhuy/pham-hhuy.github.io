@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Huy Pham",
+    "email": "pham0600@umn.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://pham-hhuy.github.io",
+    "summary": "Currently Data Science Student @ UMN CSE / Upcoming Intern @ Graco Inc.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Minneapolis",
       "countryCode": "US",
-      "region": ""
+      "region": "MN"
     },
     "profiles": [
       {
@@ -25,39 +25,29 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pham-hhuy",
+        "url": "https://github.com/pham-hhuy"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Minnesota - College of Science and Engineering",
+      "area": "B.S. in Data Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2023",
+      "endDate": "2027",
+      "gpa": 3.7,
+      "courses": ["Operations Reseach for Data Science", 
+                  "Theory of Statistics II",
+                  "Predictive Analytics with Applications in Actuarial Science and Finance",
+                  "Applied Multivariate Methods",
+                  "Multivariable Calculus for Engineers",
+                  "Regression and Statistical Computing",
+                  "Theory of Statistics I",
+                  "Practice of Database Systems",
+                  "Optimization for Machine Learning"]
     }
   ],
   "skills": [],
@@ -126,18 +116,11 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "STAT 3011 - Introduction to Statistical Analysis",
+      "institution": "University of Minnesota, School of Statistics",
+      "date": "2025-08-28",
+      "role": "Teaching Assistant",
+      "description": "Designed and delivered weekly lab sessions, explaining statistical concepts and implementing R code for 30+ students, contributing to higher assignment completion rates by 30%. Enhanced leadership and interpersonal abilities by facilitating discussions and office hours, addressing student questions, and adapting analogies to diverse learning styles."
     }
   ],
   "portfolio": [
