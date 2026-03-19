@@ -8,7 +8,7 @@ date: 2025-08-28
 location: "Minneapolis, USA"
 ---
 
-I began teaching STAT 3011 as a TA since Fall of 2025. Even though STAT 3011 is an introductory course, there's quite a plentiful amount of topics that are central to even more advanced statistics classes. This offered a golden opportunity to me to grasp a strong understanding of these fundamental concepts in statistics, aiding my career in data science and predictive analytics. Throughout my time as a TA, I have learned a lot from the faculty, fellow TAs, and students. Not only did I get to implement and customize workflows for certain tasks, but I also got to hone my soft skills in being a more charismatic and professional TA.
+I began teaching STAT 3011 as a TA since Fall of 2025. I am still currently. Even though STAT 3011 is an introductory course, there's quite a plentiful amount of topics that are central to even more advanced statistics classes. This offered me a golden opportunity to grasp a strong understanding of these fundamental concepts in statistics, aiding my career in data science and predictive analytics. Throughout my time as a TA, I have learned a lot from the faculty, fellow TAs, and students. Not only did I get to implement and customize workflows for certain tasks, but I also got to hone my soft skills in being a more charismatic and professional TA.
 
 **Course Description:**
 
