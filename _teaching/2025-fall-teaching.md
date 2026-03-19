@@ -42,5 +42,5 @@ In addition to teaching these fundamental topics, we aim to provide an interacti
 Here is a rough representation of my tech stack relevant to my TA appointment:
 
 - Rstudio + Quarto for producing documents
-- Rmarkdown + Beamer Presentation for presentations
+- Rmarkdown + Beamer Presentation for making slide decks
 - Gradescope for grading assignments and exams
