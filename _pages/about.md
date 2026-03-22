@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+Hi! My name is Huy (you can pronouce it as "Huey"). I'm currently a student at the University of Minnesota - Twin Cities, majornig in Data Science. My main passion lies in topics related to predictive analytics like data modeling using machine learning and deep learning. 
 
-Hi! My name is Huy (you can pronouce it as "Huey"). My main passion lies in Data Science and topics related to quantitative analysis. 
-
-Feel free to explore my personal website to find more about my portfolios, experience, and CV. :)
+"Feel free to explore my personal website to find more about my portfolio, experience, and CV :)"
