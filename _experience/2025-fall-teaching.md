@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Teaching Assistant - STAT 3011"
-collection: teaching
+collection: experience
 type: "STAT 3011 - Introduction to Statistical Analysis"
 permalink: /teaching/2025-fall-teaching
 venue: "University of Minnesota, School of Statistics"
