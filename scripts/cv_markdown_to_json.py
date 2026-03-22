@@ -306,7 +306,7 @@ def parse_talks(talks_dir):
     
     return talks
 
-def parse_teaching(teaching_dir):
+def parse_experience(teaching_dir):
     """Parse teaching from the _teaching directory."""
     teaching = []
     
@@ -393,7 +393,7 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
     
     # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+    cv_json["experience"] = parse_experience(os.path.join(repo_root, "_experience"))
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
